@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <img src="ReadMeImages/2.PNG">
 <br/>
 <br/>
-## Select Data which you want edit, it fills the table then you can edit: 
+## Select Data which you want edit, it fills the table then you can edit (xxx to xxx-zz)
 <br/>
 <br/>
 <img src="ReadMeImages/3.PNG">

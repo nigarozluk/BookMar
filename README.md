@@ -4,14 +4,14 @@ API with .net core and frontend with angularjs ,database is mssql (You can list,
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 <br/>
 <br/>
-## Listing Data
+## Listing and Add New Data
 <br/>
 <br/>
 <img src="ReadMeImages/1.PNG">
 <br/>
 <br/>
 
-## Code scaffolding
+## Data Added With Succesful
 <br/>
 <br/>
 <img src="ReadMeImages/2.PNG">

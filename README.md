@@ -10,7 +10,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <img src="ReadMeImages/1.PNG">
 <br/>
 <br/>
-
 ## Data Added With Succesful
 <br/>
 <br/>

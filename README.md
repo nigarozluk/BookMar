@@ -17,13 +17,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <img src="ReadMeImages/2.PNG">
 <br/>
 <br/>
-## Code scaffolding
+## Select Data which you want edit, it fills the table then you can edit: 
 <br/>
 <br/>
 <img src="ReadMeImages/3.PNG">
 <br/>
 <br/>
-## Code scaffolding
+## you can delete data
 <br/>
 <br/>
 <img src="ReadMeImages/4.PNG">
